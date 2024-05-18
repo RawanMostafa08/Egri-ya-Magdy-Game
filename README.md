@@ -20,7 +20,6 @@
 - <a href ="#structure"> 📁  File Structure</a>
 -  <a href ="#video"> 📽 Demo</a>
 - <a href ="#contributors"> ✨ Contributors</a>
-- <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 
  <a id = "about"></a>
@@ -180,6 +179,3 @@ git clone https://github.com/mennamohamed0207/Egri-ya-Magdy-Game.git
   </tr>
 </table>
 
-## 🔒 License <a id ="license"></a>
-
->This software is licensed under MIT License, See [License](https://github.com/BasmaElhoseny01/frog-frenzy/blob/main/LICENSE) for more information ©Frogger.
